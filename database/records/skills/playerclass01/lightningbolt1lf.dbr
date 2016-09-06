@@ -1,0 +1,6 @@
+templateName,database/templates/skillsecondary_petmodifier.tpl,
+ActorName,,
+Class,SkillSecondary_PetModifier,
+FileDescription,adds projectile ring to pet,
+petSkillName,records/skills/playerclass01/pets/testpetskill2.dbr,
+petChanges,,

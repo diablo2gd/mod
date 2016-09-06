@@ -1,0 +1,6 @@
+templateName,database/templates/skillsecondary_buffselfduration.tpl,
+ActorName,,
+Class,SkillSecondary_BuffSelfDuration,
+FileDescription,,
+buffSkillName,records/skills/playerclass02/cadence3_buff.dbr,
+fileNameHistoryEntry,mods/diabloclasses/records/skills/playerclass02/cadence3.dbr,
